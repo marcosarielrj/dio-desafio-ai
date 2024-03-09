@@ -1,3 +1,8 @@
+# Desafio Azure Cognitive Search
+
+Foi utilizado o serviço de pesquisa lincado ao serviço de storage e utilizad Serviços de AI para retornar pesquisas 
+de um banco de informações inseridos. Na pasta outputs encontrase o arquivo resultadopesquisa com a saida do mesmo.
+
 # Desafio Language Studio
 Foi utilizado o recurso Analyze sentiment and opinions utilizando o arquivo analise dentro de inputs,
 gerando uma saida na pasta outputs com nome saida-analise1, saida-analise2 e saida-analise3.
