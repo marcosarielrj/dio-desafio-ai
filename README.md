@@ -1,3 +1,7 @@
+# Desafio Language Studio
+Foi utilizado o recurso Analyze sentiment and opinions utilizando o arquivo analise dentro de inputs,
+gerando uma saida na pasta outputs com nome saida-analise1, saida-analise2 e saida-analise3.
+
 # Desafio Speech Studio
 
 Foi utilizado o Conversão de fala em texto em tempo real utilizando o arquivo audio 1 dentro de inputs
