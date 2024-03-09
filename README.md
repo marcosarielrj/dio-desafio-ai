@@ -1,5 +1,7 @@
 # Desafio Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 
+Dentro da pasta inputs estão as imagens usadas para o desafio, a imagem de legenda e ocr é a mesma.
+Dentro da pasta outputs os resultados obtidos.
 
 # Desafio Trabalhando com Machine Learning na Prática no Azure ML
 
