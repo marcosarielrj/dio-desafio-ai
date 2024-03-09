@@ -1,4 +1,7 @@
-# dio-desafio-ai
+# Desafio Reconhecimento Facial e transformação de imagens em Dados no Azure ML
+
+
+# Desafio Trabalhando com Machine Learning na Prática no Azure ML
 
 Foi executado o passo a passo disponível hein
 
